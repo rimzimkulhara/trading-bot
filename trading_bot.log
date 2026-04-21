@@ -1,0 +1,16 @@
+2026-04-21 19:19:20,384 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 19:19:20,817 - ERROR - API Error: APIError(code=-2014): API-key format invalid.
+2026-04-21 19:19:31,918 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-04-21 19:19:32,149 - ERROR - API Error: APIError(code=-2014): API-key format invalid.
+2026-04-21 19:20:50,519 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 19:20:50,520 - ERROR - Error: API Secret required for private endpoints
+2026-04-21 19:22:11,552 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 19:22:11,923 - ERROR - API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-21 19:22:17,991 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-04-21 19:22:19,159 - ERROR - API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-21 19:31:46,946 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 19:31:47,313 - INFO - Order success: {'orderId': 13057888573, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ29779f80895b431a8cc4e3', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776780107370}
+2026-04-21 19:32:12,066 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-04-21 19:32:12,300 - ERROR - API Error: APIError(code=-4024): Limit price can't be lower than 71946.85.
+2026-04-21 19:32:22,729 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 19:32:22,962 - INFO - Order success: {'orderId': 13057890664, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ11bd9c42f06811145fb1e7', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776780143016}
